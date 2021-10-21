@@ -1,2 +1,2 @@
-# mapex.predicates.fileSystem
+# mapex.predicates.filesystem
 Provides file system Where specifications.
