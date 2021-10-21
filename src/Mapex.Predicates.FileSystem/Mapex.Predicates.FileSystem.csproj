@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>netstandard2.1</TargetFramework>
+		<OutputType>Library</OutputType>
+		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+		<PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+		<description>Provides file system Where specifications.</description>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageProjectUrl>https://github.com/alexander-forbes/mapex.predicates.filesystem</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/alexander-forbes/mapex.predicates.filesystem.git</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+		<PackageReference Include="Mapex" Version="6.5.0" />
+		<PackageReference Include="Notus" Version="2.0.0" />
+		<PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
+		<PackageReference Include="AutoMapper" Version="10.1.1" />
+		<PackageReference Include="System.ValueTuple" Version="4.5.0" />
+		<PackageReference Include="YamlDotNet" Version="11.2.1" />
+	</ItemGroup>
+</Project>
