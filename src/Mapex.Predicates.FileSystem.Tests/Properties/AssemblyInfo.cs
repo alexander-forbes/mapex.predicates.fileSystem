@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Mapex.Predicates.FileSystem.Tests")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Provides file system Where specifications.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Mapex.Predicates.FileSystem.Tests")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyCompany("Alexander Forbes Group Services (Pty) Ltd.")]
+[assembly: AssemblyProduct("Mapex.Predicates.FileSystem")]
+[assembly: AssemblyCopyright("Copyright (c) 2021 Alexander Forbes Group Services (Pty) Ltd.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
